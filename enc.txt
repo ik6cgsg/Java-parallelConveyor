@@ -1,0 +1,3 @@
+target encode
+num 5
+decconf dec.txt

@@ -1,0 +1,3 @@
+src input.txt
+dst output.txt
+conf trans.txt

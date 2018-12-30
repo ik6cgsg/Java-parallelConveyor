@@ -1,0 +1,4 @@
+target read
+block 30
+table table.txt
+table_method write input.txt

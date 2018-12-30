@@ -1,0 +1,76 @@
+Configs have been set
+Encoding...
+Probability have been counted
+Encoding finished!!
+Encoding Error!
+Error: Wrong configuration: DECODE_CONF
+Configs have been set
+Encoding...
+Probability have been counted
+Encoding finished!!
+Decoding configurations are ready!
+Configs have been set
+Encoding...
+Probability have been counted
+Encoding finished!!
+Configs have been set
+Encoding...
+Probability have been counted
+Encoding finished!!
+Decoding configurations are ready!
+Configs have been set
+Encoding...
+Probability have been counted
+Encoding finished!!
+Configs have been set
+Encoding...
+Probability have been counted
+Encoding finished!!
+Configs have been set
+Encoding...
+Probability have been counted
+Encoding finished!!
+Decoding configurations are ready!
+Configs have been set
+Decoding...
+Decoding finished!!!
+Setting configurations error!
+Error: Unknown target: ncodein file: enc.txtat: target ncode decode|encode expected
+Setting configurations error!
+Error: Unknown config: targetsin file: enc.txtat: targets encode
+Encoding...
+Probability have been counted
+Setting configurations error!
+Error: Unknown config: targetsin file: enc.txtat: targets encode
+Encoding...
+Probability have been counted
+Setting configurations error!
+Error: Unknown config: targetsin file: enc.txtat: targets encode
+Encoding...
+Probability have been counted
+Setting configurations error!
+Error: Unknown config: targetsin file: enc.txtat: targets encode
+Setting configurations error!
+Error: Unknown config: targetsin file: enc.txtat: targets encode
+Setting configurations error!
+Error: Unknown target: ncode in file: enc.txtat: target ncode decode|encode expected
+Configs have been set
+Encoding...
+Probability have been counted
+Encoding finished!!
+Decoding configurations are ready!
+Setting configurations error!
+Error: Unknown config: decconfs in file: enc.txtat: decconfs dec.txt
+Configs have been set
+Encoding...
+Probability have been counted
+Encoding finished!!
+Decoding configurations are ready!
+Configs have been set
+Encoding...
+Probability have been counted
+Encoding finished!!
+Decoding configurations are ready!
+Configs have been set
+Decoding...
+Decoding finished!!!

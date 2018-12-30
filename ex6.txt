@@ -1,0 +1,6 @@
+target decode
+block 2
+start 0
+num 5
+table table.txt
+table_method read

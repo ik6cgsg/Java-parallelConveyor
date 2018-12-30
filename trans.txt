@@ -1,0 +1,5 @@
+executor encoder.Encoder read.txt 2 3 4
+executor encoder.Encoder ex2.txt 5
+executor PermutationCoder.PermutationCoder perm.txt 5
+executor encoder.Encoder ex4.txt 5
+executor encoder.Encoder write.txt

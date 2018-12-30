@@ -1,0 +1,2 @@
+target write
+block 0

@@ -1,0 +1,5 @@
+code_block_size=4
+matr_indexes=2 3 1 0
+conv_block_size=10
+exec_type=ENCODE
+start=10
